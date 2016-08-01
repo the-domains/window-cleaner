@@ -1,0 +1,28 @@
+name: WINDOW CLEANER
+favicon: null
+layout_spectrum: 0.8437137615401298
+typography_spectrum: 0.05582579132169485
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.125
+  lightness: 0.4375
+  saturation: 1
+  rhythmicContrast: 0.5
+purpose: []
