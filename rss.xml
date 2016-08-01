@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[WINDOW CLEANER]]></title>
+        <description><![CDATA[WINDOW CLEANER]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 01 Aug 2016 20:50:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>WINDOW CLEANER</p>]]></description>
+            <link>undefinedwindow-cleaner/index.html</link>
+            <guid isPermaLink="false">7a61c66d-8c48-4d02-b248-2be5902785a1</guid>
+            <pubDate>Mon, 01 Aug 2016 20:50:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
